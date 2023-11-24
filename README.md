@@ -38,8 +38,17 @@ python train.py
 This contains the best result we obtained in the paper.
 
 `
-log/monologue_split_500k.log
+log/monologue_split_DA500k_MLP.log
 `
+
+Here are some other results we obtained in the paper.
+
+`
+- log/monologue_split_original_MLP.log
+- log/dialogue_split_original_MLP.log
+- log/dialogue_split_original_HCGCN.log
+`
+
 
 ## Citation
 We will put the citation here once the paper is accepted.
