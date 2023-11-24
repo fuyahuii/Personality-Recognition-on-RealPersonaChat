@@ -42,12 +42,9 @@ log/monologue_split_DA500k_MLP.log
 `
 
 Here are some other results we obtained in the paper.
-
-`
 - log/monologue_split_original_MLP.log
 - log/dialogue_split_original_MLP.log
 - log/dialogue_split_original_HCGCN.log
-`
 
 
 ## Citation
