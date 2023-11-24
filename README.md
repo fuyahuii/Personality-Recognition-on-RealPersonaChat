@@ -10,4 +10,24 @@ Our work focuses on improving personality recognition in dialogues, a critical a
 
 ## Repository Contents
 
+
 ## Getting Started
+
+## Citation
+We will put the citation here once the paper is accepted.
+<!-- 
+`
+If you find our work useful in your research, please consider citing:
+@inproceedings{fu2024enhancing,
+title={Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks},
+author={Fu, Yahui and Song, Haiyue and Zhao, Tianyu and Kawahara, Tatsuya},
+year={2023}
+}
+`
+-->
+
+
+## Contact
+For any queries related to the paper or the implementation, feel free to contact:
+- Haiyue Song is in charge of the data augmentation part. [song@nlp.ist.i.kyoto-u.ac.jp](mailto:song@nlp.ist.kyoto-u.ac.jp)
+- Yahui Fu is in charge of the GCN model part. [fu@sap.ist.i.kyoto-u.ac.jp](mailto:fu@kyoto-u.ac.jp)
