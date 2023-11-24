@@ -15,8 +15,8 @@ Our work focuses on improving personality recognition in dialogues, a critical a
 ## Dependencies
 Install python3 and install python packages in vitural environment (recommended) by:
 `
-pip install --upgrade pip
-pip -install -r requirements.txt 
+- pip install --upgrade pip
+- pip -install -r requirements.txt 
 `
 
 ## Folders
