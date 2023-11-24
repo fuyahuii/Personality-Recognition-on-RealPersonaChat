@@ -13,7 +13,7 @@ Our work focuses on improving personality recognition in dialogues, a critical a
 -->
 
 ## Dependencies
-Install python3 and install python packages in vitural environment (recommended) by:
+Install python3, make virtual enviroment (recommended), and install python packages by:
 
 `
 pip install --upgrade pip &&
