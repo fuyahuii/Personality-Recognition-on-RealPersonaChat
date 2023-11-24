@@ -1,0 +1,344 @@
+2023-11-24 17:04:57,601:INFO:base model: studio-ousia/luke-japanese-base
+2023-11-24 17:04:57,602:INFO:batch size: 128
+2023-11-24 17:04:57,602:INFO:max length: 512
+2023-11-24 17:04:57,602:INFO:max epoch: 20
+2023-11-24 17:04:57,602:INFO:patience: 3
+2023-11-24 17:04:57,602:INFO:learning rate: 1e-05
+2023-11-24 17:04:57,602:INFO:hidden size: 16
+2023-11-24 17:04:57,602:INFO:multitask: 11111
+2023-11-24 17:04:57,602:INFO:dropout: 0
+2023-11-24 17:04:57,602:INFO:multilinear: 1
+2023-11-24 17:04:57,602:INFO:warmup steps: 150
+2023-11-24 17:04:57,602:INFO:criterion type: mae
+2023-11-24 17:04:57,602:INFO:context: 0
+2023-11-24 17:04:57,602:INFO:context model type: linear
+2023-11-24 17:04:57,602:INFO:loading data...
+2023-11-24 17:08:00,270:INFO:base model: studio-ousia/luke-japanese-base
+2023-11-24 17:08:00,271:INFO:batch size: 128
+2023-11-24 17:08:00,271:INFO:max length: 512
+2023-11-24 17:08:00,271:INFO:max epoch: 20
+2023-11-24 17:08:00,271:INFO:patience: 3
+2023-11-24 17:08:00,271:INFO:learning rate: 1e-05
+2023-11-24 17:08:00,271:INFO:hidden size: 16
+2023-11-24 17:08:00,271:INFO:multitask: 11111
+2023-11-24 17:08:00,271:INFO:dropout: 0
+2023-11-24 17:08:00,271:INFO:multilinear: 1
+2023-11-24 17:08:00,271:INFO:warmup steps: 150
+2023-11-24 17:08:00,271:INFO:criterion type: mae
+2023-11-24 17:08:00,271:INFO:context: 0
+2023-11-24 17:08:00,271:INFO:context model type: linear
+2023-11-24 17:08:00,271:INFO:loading data...
+2023-11-24 17:09:21,685:INFO:base model: studio-ousia/luke-japanese-base
+2023-11-24 17:09:21,685:INFO:batch size: 128
+2023-11-24 17:09:21,686:INFO:max length: 512
+2023-11-24 17:09:21,686:INFO:max epoch: 20
+2023-11-24 17:09:21,686:INFO:patience: 3
+2023-11-24 17:09:21,686:INFO:learning rate: 1e-05
+2023-11-24 17:09:21,686:INFO:hidden size: 16
+2023-11-24 17:09:21,686:INFO:multitask: 11111
+2023-11-24 17:09:21,686:INFO:dropout: 0
+2023-11-24 17:09:21,686:INFO:multilinear: 1
+2023-11-24 17:09:21,686:INFO:warmup steps: 150
+2023-11-24 17:09:21,686:INFO:criterion type: mae
+2023-11-24 17:09:21,686:INFO:context: 0
+2023-11-24 17:09:21,686:INFO:context model type: linear
+2023-11-24 17:09:21,686:INFO:loading data...
+2023-11-24 17:26:30,093:INFO:base model: studio-ousia/luke-japanese-base
+2023-11-24 17:26:30,093:INFO:batch size: 128
+2023-11-24 17:26:30,093:INFO:max length: 512
+2023-11-24 17:26:30,093:INFO:max epoch: 20
+2023-11-24 17:26:30,093:INFO:patience: 3
+2023-11-24 17:26:30,093:INFO:learning rate: 1e-05
+2023-11-24 17:26:30,093:INFO:hidden size: 16
+2023-11-24 17:26:30,094:INFO:multitask: 11111
+2023-11-24 17:26:30,094:INFO:dropout: 0
+2023-11-24 17:26:30,094:INFO:multilinear: 1
+2023-11-24 17:26:30,094:INFO:warmup steps: 150
+2023-11-24 17:26:30,094:INFO:criterion type: mae
+2023-11-24 17:26:30,094:INFO:context: 0
+2023-11-24 17:26:30,094:INFO:context model type: linear
+2023-11-24 17:26:30,094:INFO:loading data...
+2023-11-24 17:27:57,449:INFO:base model: studio-ousia/luke-japanese-base
+2023-11-24 17:27:57,449:INFO:batch size: 128
+2023-11-24 17:27:57,449:INFO:max length: 512
+2023-11-24 17:27:57,449:INFO:max epoch: 20
+2023-11-24 17:27:57,449:INFO:patience: 3
+2023-11-24 17:27:57,449:INFO:learning rate: 1e-05
+2023-11-24 17:27:57,449:INFO:hidden size: 16
+2023-11-24 17:27:57,449:INFO:multitask: 11111
+2023-11-24 17:27:57,449:INFO:dropout: 0
+2023-11-24 17:27:57,449:INFO:multilinear: 1
+2023-11-24 17:27:57,449:INFO:warmup steps: 150
+2023-11-24 17:27:57,449:INFO:criterion type: mae
+2023-11-24 17:27:57,449:INFO:context: 0
+2023-11-24 17:27:57,449:INFO:context model type: linear
+2023-11-24 17:27:57,449:INFO:loading data...
+2023-11-24 17:29:19,312:INFO:base model: studio-ousia/luke-japanese-base
+2023-11-24 17:29:19,312:INFO:batch size: 128
+2023-11-24 17:29:19,312:INFO:max length: 512
+2023-11-24 17:29:19,312:INFO:max epoch: 20
+2023-11-24 17:29:19,312:INFO:patience: 3
+2023-11-24 17:29:19,312:INFO:learning rate: 1e-05
+2023-11-24 17:29:19,312:INFO:hidden size: 16
+2023-11-24 17:29:19,312:INFO:multitask: 11111
+2023-11-24 17:29:19,313:INFO:dropout: 0
+2023-11-24 17:29:19,314:INFO:multilinear: 1
+2023-11-24 17:29:19,314:INFO:warmup steps: 150
+2023-11-24 17:29:19,314:INFO:criterion type: mae
+2023-11-24 17:29:19,314:INFO:context: 0
+2023-11-24 17:29:19,314:INFO:context model type: linear
+2023-11-24 17:29:19,314:INFO:loading data...
+2023-11-24 17:30:36,716:INFO:base model: studio-ousia/luke-japanese-base
+2023-11-24 17:30:36,716:INFO:batch size: 128
+2023-11-24 17:30:36,716:INFO:max length: 512
+2023-11-24 17:30:36,716:INFO:max epoch: 20
+2023-11-24 17:30:36,716:INFO:patience: 3
+2023-11-24 17:30:36,716:INFO:learning rate: 1e-05
+2023-11-24 17:30:36,716:INFO:hidden size: 16
+2023-11-24 17:30:36,716:INFO:multitask: 11111
+2023-11-24 17:30:36,717:INFO:dropout: 0
+2023-11-24 17:30:36,717:INFO:multilinear: 1
+2023-11-24 17:30:36,717:INFO:warmup steps: 150
+2023-11-24 17:30:36,717:INFO:criterion type: mae
+2023-11-24 17:30:36,717:INFO:context: 0
+2023-11-24 17:30:36,717:INFO:context model type: linear
+2023-11-24 17:30:36,717:INFO:loading data...
+2023-11-24 17:30:37,672:INFO:initializing model...
+2023-11-24 17:31:06,277:INFO:start training...
+2023-11-24 17:31:08,368:INFO:epoch: 0
+2023-11-24 17:31:08,368:INFO:train loss: 0.5898696184158325
+2023-11-24 17:31:08,414:INFO:valid loss: 0.5518031120300293
+2023-11-24 17:31:09,568:INFO:epoch: 1
+2023-11-24 17:31:09,568:INFO:train loss: 0.5899670720100403
+2023-11-24 17:31:09,638:INFO:valid loss: 0.5512816905975342
+2023-11-24 17:31:10,775:INFO:epoch: 2
+2023-11-24 17:31:10,775:INFO:train loss: 0.5692125558853149
+2023-11-24 17:31:10,846:INFO:valid loss: 0.5505487322807312
+2023-11-24 17:31:11,996:INFO:epoch: 3
+2023-11-24 17:31:11,996:INFO:train loss: 0.5863677859306335
+2023-11-24 17:31:12,067:INFO:valid loss: 0.5495527386665344
+2023-11-24 17:31:13,211:INFO:epoch: 4
+2023-11-24 17:31:13,211:INFO:train loss: 0.5746716260910034
+2023-11-24 17:31:13,266:INFO:valid loss: 0.5483037233352661
+2023-11-24 17:31:14,401:INFO:epoch: 5
+2023-11-24 17:31:14,402:INFO:train loss: 0.5641378164291382
+2023-11-24 17:31:14,468:INFO:valid loss: 0.5467816591262817
+2023-11-24 17:31:15,591:INFO:epoch: 6
+2023-11-24 17:31:15,591:INFO:train loss: 0.5737373232841492
+2023-11-24 17:31:15,644:INFO:valid loss: 0.5449879169464111
+2023-11-24 17:31:16,776:INFO:epoch: 7
+2023-11-24 17:31:16,776:INFO:train loss: 0.587243914604187
+2023-11-24 17:31:16,848:INFO:valid loss: 0.5429829955101013
+2023-11-24 17:31:17,979:INFO:epoch: 8
+2023-11-24 17:31:17,979:INFO:train loss: 0.5877688527107239
+2023-11-24 17:31:18,029:INFO:valid loss: 0.5407222509384155
+2023-11-24 17:31:19,170:INFO:epoch: 9
+2023-11-24 17:31:19,170:INFO:train loss: 0.567332923412323
+2023-11-24 17:31:19,236:INFO:valid loss: 0.53843754529953
+2023-11-24 17:31:20,383:INFO:epoch: 10
+2023-11-24 17:31:20,383:INFO:train loss: 0.57719486951828
+2023-11-24 17:31:20,443:INFO:valid loss: 0.535992443561554
+2023-11-24 17:31:21,572:INFO:epoch: 11
+2023-11-24 17:31:21,572:INFO:train loss: 0.5604068636894226
+2023-11-24 17:31:21,643:INFO:valid loss: 0.533403217792511
+2023-11-24 17:31:22,770:INFO:epoch: 12
+2023-11-24 17:31:22,770:INFO:train loss: 0.5627551078796387
+2023-11-24 17:31:22,872:INFO:valid loss: 0.5305507779121399
+2023-11-24 17:31:23,994:INFO:epoch: 13
+2023-11-24 17:31:23,994:INFO:train loss: 0.5549014210700989
+2023-11-24 17:31:24,063:INFO:valid loss: 0.5273081660270691
+2023-11-24 17:31:25,202:INFO:epoch: 14
+2023-11-24 17:31:25,202:INFO:train loss: 0.5569915771484375
+2023-11-24 17:31:25,279:INFO:valid loss: 0.5236071944236755
+2023-11-24 17:31:26,406:INFO:epoch: 15
+2023-11-24 17:31:26,406:INFO:train loss: 0.5481967329978943
+2023-11-24 17:31:26,480:INFO:valid loss: 0.5196696519851685
+2023-11-24 17:31:27,621:INFO:epoch: 16
+2023-11-24 17:31:27,621:INFO:train loss: 0.5360519289970398
+2023-11-24 17:31:27,706:INFO:valid loss: 0.515599250793457
+2023-11-24 17:31:28,834:INFO:epoch: 17
+2023-11-24 17:31:28,835:INFO:train loss: 0.5448256134986877
+2023-11-24 17:31:28,895:INFO:valid loss: 0.5115008354187012
+2023-11-24 17:31:30,042:INFO:epoch: 18
+2023-11-24 17:31:30,042:INFO:train loss: 0.5370492339134216
+2023-11-24 17:31:30,124:INFO:valid loss: 0.5075134634971619
+2023-11-24 17:31:31,261:INFO:epoch: 19
+2023-11-24 17:31:31,261:INFO:train loss: 0.533497154712677
+2023-11-24 17:31:31,352:INFO:valid loss: 0.5034011602401733
+2023-11-24 17:31:32,420:INFO:start evaluation...
+2023-11-24 17:32:42,115:INFO:base model: studio-ousia/luke-japanese-base
+2023-11-24 17:32:42,115:INFO:batch size: 128
+2023-11-24 17:32:42,115:INFO:max length: 512
+2023-11-24 17:32:42,115:INFO:max epoch: 20
+2023-11-24 17:32:42,115:INFO:patience: 3
+2023-11-24 17:32:42,115:INFO:learning rate: 1e-05
+2023-11-24 17:32:42,115:INFO:hidden size: 16
+2023-11-24 17:32:42,115:INFO:multitask: 11111
+2023-11-24 17:32:42,115:INFO:dropout: 0
+2023-11-24 17:32:42,115:INFO:multilinear: 1
+2023-11-24 17:32:42,115:INFO:warmup steps: 150
+2023-11-24 17:32:42,115:INFO:criterion type: mae
+2023-11-24 17:32:42,115:INFO:context: 0
+2023-11-24 17:32:42,115:INFO:context model type: linear
+2023-11-24 17:32:42,115:INFO:loading data...
+2023-11-24 17:32:43,028:INFO:initializing model...
+2023-11-24 17:32:50,952:INFO:start training...
+2023-11-24 17:32:51,681:INFO:epoch: 0
+2023-11-24 17:32:51,681:INFO:train loss: 0.6269804835319519
+2023-11-24 17:32:53,792:INFO:valid loss: 0.5898550748825073
+2023-11-24 17:32:54,937:INFO:epoch: 1
+2023-11-24 17:32:54,937:INFO:train loss: 0.6209613084793091
+2023-11-24 17:32:55,061:INFO:valid loss: 0.589327335357666
+2023-11-24 17:32:56,188:INFO:epoch: 2
+2023-11-24 17:32:56,188:INFO:train loss: 0.6131080389022827
+2023-11-24 17:32:56,311:INFO:valid loss: 0.5885481834411621
+2023-11-24 17:32:57,433:INFO:epoch: 3
+2023-11-24 17:32:57,433:INFO:train loss: 0.6340656876564026
+2023-11-24 17:32:57,618:INFO:valid loss: 0.5874684453010559
+2023-11-24 17:32:58,750:INFO:epoch: 4
+2023-11-24 17:32:58,751:INFO:train loss: 0.6199865937232971
+2023-11-24 17:32:58,861:INFO:valid loss: 0.5861279368400574
+2023-11-24 17:32:59,993:INFO:epoch: 5
+2023-11-24 17:32:59,993:INFO:train loss: 0.6185340881347656
+2023-11-24 17:33:00,172:INFO:valid loss: 0.5845209360122681
+2023-11-24 17:33:01,295:INFO:epoch: 6
+2023-11-24 17:33:01,295:INFO:train loss: 0.6086679100990295
+2023-11-24 17:33:01,434:INFO:valid loss: 0.5826653242111206
+2023-11-24 17:33:02,561:INFO:epoch: 7
+2023-11-24 17:33:02,561:INFO:train loss: 0.6064559817314148
+2023-11-24 17:33:02,710:INFO:valid loss: 0.5806401371955872
+2023-11-24 17:33:03,836:INFO:epoch: 8
+2023-11-24 17:33:03,836:INFO:train loss: 0.5906893610954285
+2023-11-24 17:33:03,944:INFO:valid loss: 0.5783599615097046
+2023-11-24 17:33:05,068:INFO:epoch: 9
+2023-11-24 17:33:05,068:INFO:train loss: 0.6019048094749451
+2023-11-24 17:33:05,224:INFO:valid loss: 0.5758516192436218
+2023-11-24 17:33:06,349:INFO:epoch: 10
+2023-11-24 17:33:06,349:INFO:train loss: 0.5957397818565369
+2023-11-24 17:33:06,479:INFO:valid loss: 0.5730714201927185
+2023-11-24 17:33:07,604:INFO:epoch: 11
+2023-11-24 17:33:07,604:INFO:train loss: 0.6067776679992676
+2023-11-24 17:33:07,791:INFO:valid loss: 0.5699973106384277
+2023-11-24 17:33:08,915:INFO:epoch: 12
+2023-11-24 17:33:08,915:INFO:train loss: 0.5883543491363525
+2023-11-24 17:33:09,026:INFO:valid loss: 0.5666915774345398
+2023-11-24 17:33:10,166:INFO:epoch: 13
+2023-11-24 17:33:10,166:INFO:train loss: 0.5923343896865845
+2023-11-24 17:33:10,280:INFO:valid loss: 0.5631680488586426
+2023-11-24 17:33:11,410:INFO:epoch: 14
+2023-11-24 17:33:11,410:INFO:train loss: 0.5868842005729675
+2023-11-24 17:33:11,545:INFO:valid loss: 0.5594633221626282
+2023-11-24 17:33:12,678:INFO:epoch: 15
+2023-11-24 17:33:12,678:INFO:train loss: 0.5900107622146606
+2023-11-24 17:33:12,807:INFO:valid loss: 0.5555229187011719
+2023-11-24 17:33:13,940:INFO:epoch: 16
+2023-11-24 17:33:13,941:INFO:train loss: 0.5918850898742676
+2023-11-24 17:33:14,098:INFO:valid loss: 0.551395058631897
+2023-11-24 17:33:15,241:INFO:epoch: 17
+2023-11-24 17:33:15,242:INFO:train loss: 0.5874213576316833
+2023-11-24 17:33:15,393:INFO:valid loss: 0.5469117164611816
+2023-11-24 17:33:16,515:INFO:epoch: 18
+2023-11-24 17:33:16,515:INFO:train loss: 0.5758318305015564
+2023-11-24 17:33:16,626:INFO:valid loss: 0.5422510504722595
+2023-11-24 17:33:17,754:INFO:epoch: 19
+2023-11-24 17:33:17,754:INFO:train loss: 0.5805401802062988
+2023-11-24 17:33:17,862:INFO:valid loss: 0.5373251438140869
+2023-11-24 17:33:18,916:INFO:start evaluation...
+2023-11-24 17:33:19,809:INFO:-----------test_max_sent2---------------------
+2023-11-24 17:33:19,809:INFO:test_max_sent2 loss: 0.622
+2023-11-24 17:33:19,809:INFO:pearson correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:19,809:INFO:pearson p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:19,809:INFO:spearman correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:19,809:INFO:spearman p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:19,809:INFO:acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:19,809:INFO:avg acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:19,809:INFO:balanced acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:19,809:INFO:avg balanced acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:19,809:INFO:acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:19,809:INFO:avg acc: 0.600
+2023-11-24 17:33:19,809:INFO:balanced acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:19,809:INFO:avg balanced acc: 0.600
+2023-11-24 17:33:19,942:INFO:-----------test_max_sent3---------------------
+2023-11-24 17:33:19,942:INFO:test_max_sent3 loss: 0.621
+2023-11-24 17:33:19,942:INFO:pearson correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:19,942:INFO:pearson p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:19,943:INFO:spearman correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:19,943:INFO:spearman p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:19,943:INFO:acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:19,943:INFO:avg acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:19,943:INFO:balanced acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:19,943:INFO:avg balanced acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:19,943:INFO:acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:19,943:INFO:avg acc: 0.600
+2023-11-24 17:33:19,943:INFO:balanced acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:19,943:INFO:avg balanced acc: 0.600
+2023-11-24 17:33:20,033:INFO:-----------test_max_sent4---------------------
+2023-11-24 17:33:20,033:INFO:test_max_sent4 loss: 0.628
+2023-11-24 17:33:20,033:INFO:pearson correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,033:INFO:pearson p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,033:INFO:spearman correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,033:INFO:spearman p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,033:INFO:acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,033:INFO:avg acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:20,033:INFO:balanced acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,033:INFO:avg balanced acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:20,033:INFO:acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:20,033:INFO:avg acc: 0.600
+2023-11-24 17:33:20,033:INFO:balanced acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:20,033:INFO:avg balanced acc: 0.600
+2023-11-24 17:33:20,156:INFO:-----------test_max_sent5---------------------
+2023-11-24 17:33:20,156:INFO:test_max_sent5 loss: 0.621
+2023-11-24 17:33:20,156:INFO:pearson correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,156:INFO:pearson p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,156:INFO:spearman correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,156:INFO:spearman p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,156:INFO:acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,156:INFO:avg acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:20,156:INFO:balanced acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,156:INFO:avg balanced acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:20,157:INFO:acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:20,157:INFO:avg acc: 0.600
+2023-11-24 17:33:20,157:INFO:balanced acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:20,157:INFO:avg balanced acc: 0.600
+2023-11-24 17:33:20,259:INFO:-----------test_max_sent10---------------------
+2023-11-24 17:33:20,259:INFO:test_max_sent10 loss: 0.602
+2023-11-24 17:33:20,259:INFO:pearson correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,261:INFO:pearson p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,261:INFO:spearman correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,261:INFO:spearman p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,261:INFO:acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,261:INFO:avg acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:20,261:INFO:balanced acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,261:INFO:avg balanced acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:20,261:INFO:acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:20,261:INFO:avg acc: 0.600
+2023-11-24 17:33:20,261:INFO:balanced acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:20,261:INFO:avg balanced acc: 0.600
+2023-11-24 17:33:20,513:INFO:-----------valid---------------------
+2023-11-24 17:33:20,513:INFO:valid loss: 0.537
+2023-11-24 17:33:20,514:INFO:pearson correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,514:INFO:pearson p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,514:INFO:spearman correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,514:INFO:spearman p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,514:INFO:acc using 0.5 as threshold: [0.0, 0.0, 0.0, 0.0, 1.0]
+2023-11-24 17:33:20,514:INFO:avg acc using 0.5 as threshold: 0.200
+2023-11-24 17:33:20,514:INFO:balanced acc using 0.5 as threshold: [0.0, 0.0, 0.0, 0.0, 1.0]
+2023-11-24 17:33:20,514:INFO:avg balanced acc using 0.5 as threshold: 0.200
+2023-11-24 17:33:20,514:INFO:acc: [1.0, 0.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,514:INFO:avg acc: 0.400
+2023-11-24 17:33:20,514:INFO:balanced acc: [1.0, 0.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,514:INFO:avg balanced acc: 0.400
+2023-11-24 17:33:20,514:INFO:-----------test---------------------
+2023-11-24 17:33:20,514:INFO:test loss: 0.596
+2023-11-24 17:33:20,514:INFO:pearson correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,514:INFO:pearson p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,514:INFO:spearman correlation: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,514:INFO:spearman p value: [nan, nan, nan, nan, nan]
+2023-11-24 17:33:20,514:INFO:acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,515:INFO:avg acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:20,515:INFO:balanced acc using 0.5 as threshold: [0.0, 1.0, 1.0, 0.0, 0.0]
+2023-11-24 17:33:20,515:INFO:avg balanced acc using 0.5 as threshold: 0.400
+2023-11-24 17:33:20,515:INFO:acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:20,515:INFO:avg acc: 0.600
+2023-11-24 17:33:20,515:INFO:balanced acc: [0.0, 1.0, 1.0, 1.0, 0.0]
+2023-11-24 17:33:20,515:INFO:avg balanced acc: 0.600

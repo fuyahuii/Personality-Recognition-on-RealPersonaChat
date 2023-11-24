@@ -1,0 +1,12 @@
+tqdm==4.64.1
+urllib3==1.26.14
+sentencepiece==0.1.97
+numpy==1.22.4
+scipy==1.7.1
+sklearn==0.0
+pandas==1.5.3
+pandas-stubs==1.5.0.221012
+torch==2.0.1
+torch_geometric==2.4.0
+transformers==4.35.2
+safetensors==0.4.0
