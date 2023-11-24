@@ -14,6 +14,7 @@ Our work focuses on improving personality recognition in dialogues, a critical a
 
 ## Dependencies
 Install python3 and install python packages in vitural environment (recommended) by:
+
 `
 pip install --upgrade pip &&
 pip -install -r requirements.txt 
@@ -27,6 +28,7 @@ pip -install -r requirements.txt
 
 ## Usage
 This allows to train a MLP model on the original monologue dataset (without data augmentation).
+
 `
 python train.py
 `
@@ -34,6 +36,7 @@ python train.py
 
 ## Sample Results
 This contains the best result we obtained in the paper.
+
 `
 log/monologue_split_500k.log
 `
