@@ -26,13 +26,16 @@ pip -install -r requirements.txt
 
 
 ## Usage
+This allows to train a MLP model on the original monologue dataset (without data augmentation).
 `
 python train.py
 `
 
+
 ## Sample Results
+This contains the best result we obtained in the paper.
 `
-log/monologue_split_500k
+log/monologue_split_500k.log
 `
 
 ## Citation
