@@ -19,6 +19,12 @@ pip install --upgrade pip
 pip -install -r requirements.txt 
 `
 
+## Folders
+- `data/` contains the pre-processed corpora (now only sample data because we are waiting for permission to release the full data)
+- `log/` contains the log file where results are saved
+- `model/` contains the trained model (now model.pt is empty, we may consider to release trained models after we got permission)
+
+
 ## Usage
 `
 python train.py
@@ -28,8 +34,6 @@ python train.py
 `
 log/monologue_split_500k
 `
-
-## Getting Started
 
 ## Citation
 We will put the citation here once the paper is accepted.
