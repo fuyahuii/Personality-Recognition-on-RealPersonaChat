@@ -21,7 +21,7 @@ pip -install -r requirements.txt
 `
 
 ## Folders
-- `data/` contains the pre-processed corpora (now only sample data because we are waiting for permission to release the full data)
+- `data/` contains the pre-processed corpora (now only sample data because we are waiting for permission)
 - `log/` contains the log file where results are saved
 - `model/` contains the trained model (now model.pt is empty, we may consider to release trained models after we got permission)
 
