@@ -21,7 +21,7 @@ Install python3, make virtual enviroment (recommended), and install python packa
 
 ## Step2. Data Preprocessing
 
-* Big-Five label preparing, this is to convert personality questinnares to big5 labels.
+* Big-Five label preparation, this is to convert the personality questionnaire to big5 labels.
   `python data_preprocessing/big5_preprocessing.py`
 * Speaker-independently corpus splitting for monologue experiments
 * Speaker-independently corpus splitting for dialogue experiments
