@@ -463,7 +463,7 @@ def edge_perms(length):
 	for i in range (length):
 		if i%2==0:
 			for j in eff_array_user:
-				user_user.add((i,j))  # add()给集合添加元素，如果添加的元素在集合中已存在，则不执行任何操作
+				user_user.add((i,j))  
 			for j in eff_array_sys:
 				user_sys.add((i,j))
 		else:
@@ -474,8 +474,7 @@ def edge_perms(length):
 	user_sys_user=user_sys.union(user_user)
 	sys_user_sys=sys_user.union(sys_sys)
 
-	# return [sys_sys,user_user, user_sys, sys_user, sys_user_sys,user_sys_user] # fu
-	return [user_user,user_sys, sys_sys, sys_user, sys_user_sys,user_sys_user] # fu
+	return [user_user,user_sys, sys_sys, sys_user, sys_user_sys,user_sys_user] 
 
 def batch_graphify_hgcn(features, lengths, device):
     node_features, edge_index1,edge_index2,edge_index3,edge_index4, edge_index5, edge_index6,edge_type= [], [], [],[],[],[],[],[]
