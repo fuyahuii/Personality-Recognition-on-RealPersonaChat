@@ -22,7 +22,7 @@ C=['計画性のある','勤勉な','几帳面な','いい加減な','ルーズ�
 neworder=N+E+O+A+C
 
 # Reorder the list of the Big-Five personality traits by the order in the dictionary
-new_path="persona_reorder1"
+new_path="persona_reorder"
 for file in files:
     with open(os.path.join(path,file),'r',encoding='utf-8') as f:
         csvreader=csv.reader(f)
@@ -60,10 +60,10 @@ for file in files:
         csvwriter.writerows(data)
 
 # This is to add the Big-Five personality scores of users to the dialogue files
-dialogue_path="dialog1"
+dialogue_path="dialog"
 dialogue_files=os.listdir(dialogue_path)
 
-persona_path="persona_reorder1"
+persona_path="persona_reorder"
 persona_files=os.listdir(persona_path)
 persona=[]
 for file in persona_files:
