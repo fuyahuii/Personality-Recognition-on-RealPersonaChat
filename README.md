@@ -27,7 +27,7 @@ Install python3, make virtual enviroment (recommended), and install python packa
 
 ## Step2. Data Preprocessing
 
-We have already put the pre-processed corpora in `data/` folder. If you want to re-run the preprocessing by yourself, please follow the steps below.
+We have already put the pre-processed corpora in `data/` folder. If you want to re-run the preprocessing by yourself, please follow the steps below:
 
 * Big-Five label preparation, this is to convert the personality questionnaire to big5 labels.
     - `python big5_preprocessing.py`
@@ -53,6 +53,7 @@ We have already put the pre-processed corpora in `data/` folder. If you want to 
     - `python train.py --data_folder ./data/dialogue_split_original --context 1 --context_model_type linear`
 * Proposed HCGNN model on the augmented dialogue dataset.
     - `python train.py --data_folder ./data/dialogue_split_500k --context 1 --context_model_type gcn-nospk2pred-lastnode --model_variant hcgnn`
+* For more details about the arguments, please refer to `train.py --help`.
 
 ## Sample Results
 
