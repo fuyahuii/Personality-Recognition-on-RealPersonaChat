@@ -13,7 +13,7 @@ Our work focuses on improving personality recognition in dialogues, a critical a
 1. **Data Augmentation for Personality Recognition:** We propose a novel data interpolation method for speaker data augmentation to increase speaker diversity.
 2. **Heterogeneous Conversational Graph Network (HC-GNN):** A new approach to model both contextual influences and inherent personality traits independently. -->
 
-## Step1. Dependencies
+## Step1. Dependencies Installation
 
 Install python3, make virtual enviroment (recommended), and install python packages by:
 
@@ -21,12 +21,16 @@ Install python3, make virtual enviroment (recommended), and install python packa
 
 ## Step2. Data Preprocessing
 
+We have already put the pre-processed corpora in `data/` folder. If you want to re-run the preprocessing, please follow the steps below.
+
 * Big-Five label preparation, this is to convert the personality questionnaire to big5 labels.
-  `python data_preprocessing/big5_preprocessing.py`
+
+  `python big5_preprocessing.py`
+
 * Speaker-independently corpus splitting for monologue experiments
 * Speaker-independently corpus splitting for dialogue experiments
 
-## Step3. Training
+## Step3. Training and Evaluation
 
 1. This allows to train a MLP model on the original monologue dataset without data augmentation.
 
@@ -34,15 +38,15 @@ Install python3, make virtual enviroment (recommended), and install python packa
 
 2. Here are other settings for training:
 
-- MLP model on the augmented monologue dataset
+- MLP model on the augmented monologue dataset.
 
 `python train.py --data_folder ./data/monologue_split_500k`
 
-- MLP model on the original dialogue dataset
+- MLP model on the original dialogue dataset.
 
 `python train.py --data_folder ./data/dialogue_split_original --context 1 --context_model_type linear`
 
-- Proposed hcgnn model on the augmented dialogue dataset
+- Proposed hcgnn model on the augmented dialogue dataset.
 
 `python train.py --data_folder ./data/dialogue_split_500k --context 1 --context_model_type gcn-nospk2pred-lastnode --model_variant hcgnn`
 
