@@ -13,6 +13,12 @@ Our work focuses on improving personality recognition in dialogues, a critical a
 1. **Data Augmentation for Personality Recognition:** We propose a novel data interpolation method for speaker data augmentation to increase speaker diversity.
 2. **Heterogeneous Conversational Graph Network (HC-GNN):** A new approach to model both contextual influences and inherent personality traits independently. -->
 
+## Folder Structure
+
+- `data/` contains the pre-processed corpora (now only sample data because we are waiting for permission)
+- `log/` contains the log file where results are saved
+- `model/` contains the trained model (now model.pt is empty, we may consider to release trained models after we got permission)
+
 ## Step1. Dependencies Installation
 
 Install python3, make virtual enviroment (recommended), and install python packages by:
@@ -51,23 +57,18 @@ We have already put the pre-processed corpora in `data/` folder. If you want to 
 `python train.py --data_folder ./data/dialogue_split_500k --context 1 --context_model_type gcn-nospk2pred-lastnode --model_variant hcgnn`
 
 
-## Folders
-
-- `data/` contains the pre-processed corpora (now only sample data because we are waiting for permission)
-- `log/` contains the log file where results are saved
-- `model/` contains the trained model (now model.pt is empty, we may consider to release trained models after we got permission)
 
 ## Sample Results
 
 This contains the best result we obtained in the paper.
 
-`log/monologue_split_DA500k_MLP.log`
+`log/monologue_split_500k_MLP.log`
 
 Here are some other results we obtained in the paper.
 
 - log/monologue_split_original_MLP.log
 - log/dialogue_split_original_MLP.log
-- log/dialogue_split_original_HCGCN.log
+- log/dialogue_split_original_HCGNN.log
 
 ## Citation
 
