@@ -30,7 +30,16 @@ Install python3, make virtual enviroment (recommended), and install python packa
 
 1. This allows to train a MLP model on the original monologue dataset (without data augmentation).
 
-`	python train.py`
+`python train.py`
+
+2. Here are other settings for training:
+
+`python train.py --data_folder ./data/monologue_split_500k # MLP model on the augmented monologue dataset`
+
+`python train.py --context 1 --context_model_type linear --data_folder ./data/dialogue_split_original # MLP model on the original dialogue dataset`
+
+`python train.py --context 1 --context_model_type gcn-nospk2pred-lastnode --model_variant hcgnn --data_folder ./data/dialogue_split_500k # proposed hcgnn model on the augmented dialogue dataset`
+
 
 ## Folders
 
