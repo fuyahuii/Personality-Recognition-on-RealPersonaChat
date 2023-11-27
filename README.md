@@ -57,7 +57,7 @@ We have already put the pre-processed corpora in `data/` folder. If you want to 
 
 ## Sample Results
 
-This contains the best result we obtained in the paper:
+This contains the best result we obtained in the paper, results on the test set are shown in the last several lines in the log file:
 
 - log/monologue_split_500k_MLP.log
 
