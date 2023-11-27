@@ -40,11 +40,11 @@ Install python3, make virtual enviroment (recommended), and install python packa
 
 - MLP model on the original dialogue dataset
 
-`python train.py --context 1 --context_model_type linear --data_folder ./data/dialogue_split_original`
+`python train.py --data_folder ./data/dialogue_split_original --context 1 --context_model_type linear`
 
 - Proposed hcgnn model on the augmented dialogue dataset
 
-`python train.py --context 1 --context_model_type gcn-nospk2pred-lastnode --model_variant hcgnn --data_folder ./data/dialogue_split_500k`
+`python train.py --data_folder ./data/dialogue_split_500k --context 1 --context_model_type gcn-nospk2pred-lastnode --model_variant hcgnn`
 
 
 ## Folders
