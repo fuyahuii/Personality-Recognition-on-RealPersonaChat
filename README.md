@@ -35,18 +35,15 @@ We have already put the pre-processed corpora in `data/` folder. If you want to 
     - `python nocontext_dataset_split.py`
 * Speaker-independently corpus splitting for dialogue experiments
     - `python context_dataset_split.py`
-
 * Speaker-independently monologue data augmentation
-    `python nocontext_data_augmentation.py`
-
+    - `python nocontext_data_augmentation.py`
 * Speaker-independently dialogue data augmentation
-    `python context_data_augmentation.py`
+    - `python context_data_augmentation.py`
 
 ## Step3. Training and Evaluation
 
 1. This allows to train a MLP model on the original monologue dataset without data augmentation.
-
-`python train.py`
+* `python train.py`
 
 2. Here are other settings for training:
 
