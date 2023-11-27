@@ -31,12 +31,10 @@ We have already put the pre-processed corpora in `data/` folder. If you want to 
 
 * Big-Five label preparation, this is to convert the personality questionnaire to big5 labels.
     - `python big5_preprocessing.py`
-
 * Speaker-independently corpus splitting for monologue experiments
-    `python nocontext_dataset_split.py`
-
+    - `python nocontext_dataset_split.py`
 * Speaker-independently corpus splitting for dialogue experiments
-    `python context_dataset_split.py`
+    - `python context_dataset_split.py`
 
 * Speaker-independently monologue data augmentation
     `python nocontext_data_augmentation.py`
