@@ -51,8 +51,8 @@ We have already put the pre-processed corpora in `data/` folder. If you want to 
     - `python train.py --data_folder ./data/monologue_split_500k`
 * MLP model on the original dialogue dataset.
     - `python train.py --data_folder ./data/dialogue_split_original --context 1 --context_model_type linear`
-* Proposed HCGNN model on the augmented dialogue dataset.
-    - `python train.py --data_folder ./data/dialogue_split_500k --context 1 --context_model_type gcn-nospk2pred-lastnode --model_variant hcgnn`
+* Proposed HCGNN model on the original dialogue dataset.
+    - `python train.py --data_folder ./data/dialogue_split_original --context 1 --context_model_type gcn-nospk2pred-lastnode --model_variant hcgnn`
 * For more details about the arguments, please refer to `train.py --help`.
 
 ## Sample Results
