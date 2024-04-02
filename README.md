@@ -68,10 +68,6 @@ Here are some other results we obtained in the paper:
 
 ## Citation
 
-We will put the citation here once the paper is accepted.
-
-<!-- 
-`
 If you find our work useful in your research, please consider citing:
 @article{fu2024enhancing,
   title={Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks},
@@ -79,8 +75,6 @@ If you find our work useful in your research, please consider citing:
   journal={arXiv preprint arXiv:2401.05871},
   year={2024}
 }
-`
--->
 
 ## Contact
 
