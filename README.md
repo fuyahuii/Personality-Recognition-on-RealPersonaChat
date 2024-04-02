@@ -1,8 +1,7 @@
 # Enhancing Personality Recognition in Dialogue
 
-This is the official github repository for the paper:"Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks" by Yahui Fu, Haiyue Song, Tianyu Zhao, and Tatsuya Kawahara.
-
-Paper link will be put here after the paper is accepted. Pre-processed corpora and trained model (now model.pt is empty) will be released after we got permission.
+This is the official github repository for the paper:"Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks" by Yahui Fu, Haiyue Song, Tianyu Zhao, and Tatsuya Kawahara. 
+This work has been accepted to IWSDS 2024.
 
 <!-- ## Introduction
 
@@ -74,10 +73,11 @@ We will put the citation here once the paper is accepted.
 <!-- 
 `
 If you find our work useful in your research, please consider citing:
-@inproceedings{fu2024enhancing,
-title={Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks},
-author={Fu, Yahui and Song, Haiyue and Zhao, Tianyu and Kawahara, Tatsuya},
-year={2023}
+@article{fu2024enhancing,
+  title={Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks},
+  author={Fu, Yahui and Song, Haiyue and Zhao, Tianyu and Kawahara, Tatsuya},
+  journal={arXiv preprint arXiv:2401.05871},
+  year={2024}
 }
 `
 -->
