@@ -14,9 +14,9 @@ Our work focuses on improving personality recognition in dialogues, a critical a
 
 ## Folder Structure
 
-- `data/` contains the pre-processed corpora (now only sample data because we are waiting for permission)
+- `data/` contains the pre-processed corpora (sample data is the placeholder)
 - `log/` contains the log file where results are saved
-- `model/` contains the trained model (now model.pt is empty, we may consider to release trained models after we got permission)
+- `model/` contains the trained model (model.pt is the placeholder)
 
 ## Step1. Dependencies Installation
 
