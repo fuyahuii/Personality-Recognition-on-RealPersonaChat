@@ -81,5 +81,5 @@ If you find our work useful in your research, please consider citing:
 
 For any queries related to the paper or the implementation, feel free to contact:
 
-- Haiyue Song is in charge of the data augmentation part. [song@nlp.ist.i.kyoto-u.ac.jp](mailto:song@nlp.ist.i.kyoto-u.ac.jp)
+- Haiyue Song is in charge of the data augmentation part. [haiyue.song@nict.go.jp](mailto:haiyue.song@nict.go.jp)
 - Yahui Fu is in charge of the HC-GNN model part. [fu.yahui.64p@st.kyoto-u.ac.jp](mailto:fu.yahui.64p@st.kyoto-u.ac.jp)
